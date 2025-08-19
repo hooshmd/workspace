@@ -1,3 +1,7 @@
-module github.com/hooshmd/workspace/tree/main/hellogo
+module example.com/hooshmd/hellogo
 
-go 1.25.0
+go 1.23.0
+
+replace example.com/hooshmd/mystrings v0.0.0 => ../mystrings
+
+require example.com/hooshmd/mystrings v0.0.0
