@@ -1,7 +1,7 @@
-module github.com/hooshmd/mystrings
+module github.com/hooshmd/workspace/tree/main/mystrings
 
 go 1.23.0
 
-replace github.com/hooshmd/mystrings v0.0.0 => ../mystrings
+replace github.com/hooshmd/workspace/tree/main/mystrings v0.0.0 => ../mystrings
 
-require github.com/hooshmd/mystrings v0.0.0
+require github.com/hooshmd/workspace/tree/main/mystrings v0.0.0

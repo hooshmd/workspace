@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/hooshmd/mystrings"
+	"github.com/hooshmd/workspace/tree/main/mystrings"
 )
 
 func main() {
